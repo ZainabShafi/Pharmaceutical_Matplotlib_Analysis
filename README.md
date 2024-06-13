@@ -44,13 +44,15 @@ A summary DataFrame is created to present these statistical measures.
 
 Visual representations of the total observations **(Mouse ID/Timepoints)** for each drug regimen using both Pandas and Matplotlib are created.
 
+Appropriate use of .index, .values to create x ticks and bar height.
+
 Pie charts are generated to display the gender distribution of mice.
 
 **Quartiles, Outliers, and Boxplots:**
 
 The final tumor volume for each mouse under specific treatment regimens (Capomulin, Ramicane, Infubinol, and Ceftamin) is determined.
 
-Quartiles, interquartile range (IQR), and potential outliers are calculated.
+Quartiles, interquartile range (IQR), and potential outliers are calculated using looping and relevant formula.
 
 Boxplots are utilized to visualize the spread of tumor volume across different treatment groups.
 
