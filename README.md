@@ -4,6 +4,20 @@
 
 For this project we were tasked with conducting an analysis of pharmaceutical data to study the effects of various drug regimens on tumor volume in mice. This project further honed my Pandas data cleaning and summary statistics skills, which helped solidify my knowledge of Pandas functions - especially in a different data context. The project was my first foray into coding visualizations such as bar plots, pie charts, box plots, line plots, and scatter plots. It has prepared me to take my knowledge of analytical statistics, and create clear representations of different facets of the data through using Pandas, Matplotlib and Scipy. 
 
+## Key Takeaways: 
+
+The process of learning and applying Pandas data organization and charting through Matplotlib for this exercise, demonstrated the utility of the script. Some important benefits for stakeholders such as researchers, medical professionals and data analysts are as follows: 
+
+**Treatment Efficacy:** Assess the effectiveness of different drug treatments based on tumor volume changes.
+
+**Patient Insights:** Understand the relationship between factors such as mouse weight and tumor volume to make informed decisions about treatment plans.
+
+**Drug Development:** Utilize the insights from statistical analysis and visualizations to improve drug development processes and make data-driven decisions.
+
+**Risk Assessment:** Identify potential outliers and risks associated with specific treatment regimens.
+
+**Trend Identification:** Detect trends and correlations in large datasets to provide actionable insights.
+
 ## Technologies and Skills Used
 
 **Python:** Core programming language for data processing and analysis.
